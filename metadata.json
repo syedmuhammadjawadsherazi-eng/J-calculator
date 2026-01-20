@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of JCal",
+  "description": "A premium, Apple-inspired calculator with a UAE luxury aesthetic and a fluid, glassy 'watery' design language. Made in Chikarkot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
